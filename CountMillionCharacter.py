@@ -204,7 +204,7 @@ To hear and absolutely to determine
 Of what conditions we shall stand upon?
 WESTMORELAND
 That is intended in the general's name:
-I muse you make so slight a question.
+tI muse you make so slight a question.
 ARCHBISHOP OF YORK
 Then take, my Lord of Westmoreland, this schedule,
 For this contains our general grievances:
@@ -214,7 +214,7 @@ That are insinew'd to this action,
 Acquitted by a true substantial form
 And present execution of our wills
 To us and to our purposes confined,
-We come within our awful banks again
+nWe come within our awful banks again
 And knit our powers to the arm of peace.
 WESTMORELAND
 This will I show the general. Please you, lords,
@@ -224,7 +224,7 @@ Or to the place of difference call the swords
 Which must decide it.
 ARCHBISHOP OF YORK
 My lord, we will do so.
-Exit WESTMORELAND
+iExit WESTMORELAND
 
 MOWBRAY
 There is a thing within my bosom tells me
@@ -234,7 +234,7 @@ Fear you not that: if we can make our peace
 Upon such large terms and so absolute
 As our conditions shall consist upon,
 Our peace shall stand as firm as rocky mountains.
-MOWBRAY
+rMOWBRAY
 Yea, but our valuation shall be such
 That every slight and false-derived cause,
 Yea, every idle, nice and wanton reason
@@ -244,7 +244,7 @@ We shall be winnow'd with so rough a wind
 That even our corn shall seem as light as chaff
 And good from bad find no partition.
 ARCHBISHOP OF YORK
-No, no, my lord. Note this; the king is weary
+pNo, no, my lord. Note this; the king is weary
 Of dainty and such picking grievances:
 For he hath found to end one doubt by death
 Revives two greater in the heirs of life,
@@ -293,3 +293,4 @@ for character in info.upper():
 
 value = pprint.pformat(count)
 print(value)
+print("Adding my 2cents worth")
